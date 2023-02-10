@@ -9,6 +9,7 @@ This program is a heuristic algorithm proposed for the inventory location alloca
 * numpy
 
 ## Running
+First extract the "order_test.rar" file
 Please run in the file "Case"
 Change "data_path" to change the original order data set, change "min_support" to change the minimum support number, and change "theta" to change θ Value, change "warehouse_dimension", "warehouse_length", "warehouse_speed" to change the parameters of the storage location, change "simulate_path" to change the simulation order path, and try to convert "1" in "order_test order_set1 order" to "2" - "8"
 The results are placed in "picking_time. csv", where each value represents the picking time of each order
